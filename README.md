@@ -57,9 +57,5 @@ Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-s
 Licença
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
-Siga-me nas redes sociais:
-
-YouTube
-Instagram
-Twitter
+ YouTube:  https://www.youtube.com/watch?v=QA04Vvlmy28
 Espero que você aproveite este projeto e aprenda muito com ele! Bons estudos e feliz codificação!
