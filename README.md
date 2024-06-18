@@ -7,7 +7,7 @@ O objetivo é ensinar conceitos básicos de desenvolvimento web, incluindo a est
 
 ## Demonstração
 
-![Demonstração do Projeto](https://francisguitt.github.io/clone_StarBucks/src/index.html)
+![Demonstração do Projeto] https://francisguitt.github.io/clone_StarBucks/src/index.html
 
 ## Funcionalidades
 
