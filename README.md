@@ -5,6 +5,8 @@
 Bem-vindo ao projeto **Clone Starbucks**! Este projeto foi desenvolvido para iniciantes que estão começando no desenvolvimento web. Aqui, você encontrará um guia para criar uma réplica simples do site do Starbucks utilizando apenas HTML e CSS.
 O objetivo é ensinar conceitos básicos de desenvolvimento web, incluindo a estruturação de páginas com HTML e a estilização com CSS.
 
+ ![YouTube]  https://www.youtube.com/watch?v=QA04Vvlmy28
+ 
 ## Demonstração
 
 ![Demonstração do Projeto] https://francisguitt.github.io/clone_StarBucks/src/index.html
@@ -57,5 +59,5 @@ Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-s
 Licença
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
- YouTube:  https://www.youtube.com/watch?v=QA04Vvlmy28
+
 Espero que você aproveite este projeto e aprenda muito com ele! Bons estudos e feliz codificação!
